@@ -1,0 +1,7 @@
+/Debug
+/Release
+Assignment2/Debug
+Assignment2/Release
+Assignment2/*.vcxproj
+Assignment2/*.vcxproj.*
+.vs
